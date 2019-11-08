@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SwipeLayoutKotlin</string>
+    <string name="label_swipe_for">Swipe for</string>
+    <string name="label_panic_button">Panic Button</string>
+</resources>
